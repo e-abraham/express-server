@@ -1,0 +1,10 @@
+#alert {
+    display: none;
+}
+
+#title {
+    color: blue;
+} 
+#taskForm {
+    width: 60vw;
+}
